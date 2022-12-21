@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Immersive-rise/static/css/main.d430cb4e.css",
+    "main.js": "/Immersive-rise/static/js/main.3798de55.js",
+    "static/js/787.0ef64598.chunk.js": "/Immersive-rise/static/js/787.0ef64598.chunk.js",
+    "index.html": "/Immersive-rise/index.html",
+    "main.d430cb4e.css.map": "/Immersive-rise/static/css/main.d430cb4e.css.map",
+    "main.3798de55.js.map": "/Immersive-rise/static/js/main.3798de55.js.map",
+    "787.0ef64598.chunk.js.map": "/Immersive-rise/static/js/787.0ef64598.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d430cb4e.css",
+    "static/js/main.3798de55.js"
+  ]
+}
